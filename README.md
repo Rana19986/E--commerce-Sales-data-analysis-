@@ -88,5 +88,6 @@ The analysis of 17,049 e-commerce transactions demonstrates strong business perf
 
 ##Project Report
 
+## Project Report
 
-(file_0000000031e471fa99937182df862439.png)
+![Project Report](file_0000000031e471fa99937182df862439.png)
