@@ -85,3 +85,8 @@ Delivery Performance
 9. Conclusion
 
 The analysis of 17,049 e-commerce transactions demonstrates strong business performance with high customer satisfaction and healthy sales across multiple product categories. Customer behavior analysis, sales trends, payment preferences, and delivery performance reveal valuable insights that can support strategic business decisions. Implementing the recommended actions can help increase revenue, improve customer retention, and strengthen the company's competitive position in the e-commerce market.
+## Project Report
+
+- 🖼️ [E-Commerce Sales Analysis Report](/storage/emulated/0/Pictures/
+file 0000000031e471fa99937182df8
+62439.png)
